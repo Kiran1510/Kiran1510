@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects involving ROS2, Arduino, Motor Control, Controls Theory, 3D modelling and so much more<br>👯 I’m looking to collaborate on projects that are similar.<br>🤝 I’m looking for help with ROS2, and advice related to the nature of my projects.
+🔭 I’m currently a Robotics Grad Student at Northeeastern University working on projects involving ROS2, Arduino, Motor Control, Controls Theory, 3D modelling and so much more<br>👯 I’m looking to collaborate on projects that are similar.<br>🤝 I’m looking for help with ROS2, and advice related to the nature of my projects.
 
 
 ## 🌐 Socials:
