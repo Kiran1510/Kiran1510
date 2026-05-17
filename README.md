@@ -9,6 +9,6 @@ Looking for Fall 2026 co-op roles in robotics, AI/ML, or sensor systems.
 ## Tech Stack
 
 **Languages:** Python, MATLAB, SQL  
-**ML/AI:** PyTorch, NumPy, Pandas, Matplotlib, ChromaDB, Sentence-Transformers  
+**ML/AI:** PyTorch, NumPy, Pandas, Matplotlib, Neural Networks
 **Robotics:** ROS2, Sensor Fusion, Docker, Linux, Git  
 **Hardware:** Arduino, Raspberry Pi, Soldering, SolidWorks
