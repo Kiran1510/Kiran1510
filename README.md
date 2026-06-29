@@ -2,7 +2,7 @@
 
 Robotics engineer building sensor fusion systems, ML pipelines, and hands-on hardware. MS Robotics at Northeastern University (3.91 GPA), B.Tech in Mechatronics from VIT Chennai. Currently TAing graduate Reinforcement Learning.
 
-Looking for Fall 2026 co-op roles in robotics, AI/ML, or sensor systems.
+Looking for Summer 2027 co-op roles in robotics, AI/ML, or sensor systems.
 
 📫 bethi.k@northeastern.edu · [LinkedIn](https://linkedin.com/in/kiran-sairam-908741355)
 
