@@ -1,6 +1,6 @@
 ## About Me
 
-Robotics engineer building sensor fusion systems, ML pipelines, and hands-on hardware. MS Robotics at Northeastern University (3.91 GPA), B.Tech in Mechatronics from VIT Chennai. Currently TAing graduate Reinforcement Learning.
+Robotics engineer building sensor fusion systems, ML pipelines, and hands-on hardware. MS Robotics at Northeastern University, with a background in Mechatronics from VIT Chennai. Currently working at Medtronic.
 
 Looking for Summer 2027 co-op roles in robotics, AI/ML, or sensor systems.
 
